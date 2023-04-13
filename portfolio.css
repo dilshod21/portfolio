@@ -55,6 +55,9 @@ body{
     cursor: pointer;
     background-color: rgba(255, 255, 255, 0.34);
 }
+.list-group-item.list-group-item-action.active:hover{
+    background-color: white;
+}
 .central-border{
     width: 0px;
     height: auto;
